@@ -1,0 +1,11 @@
+[package]
+name = "borer-snippets"
+version = "0.0.1"
+authors = ["borer <janu.yieg.borer@gmail.com"]
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+
+[features]
